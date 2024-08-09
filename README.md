@@ -78,7 +78,7 @@ sudo systemctl enable evmosd
 sudo systemctl start evmosd
 sudo journalctl -u evmosd -f --no-hostname -o cat
 ```
-کنترل + سی + بزنید
+کنترل + سی + بزنیg
 
 the service logs should be like this
 
